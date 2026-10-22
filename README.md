@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure DevOps Bug Counter
 
 A simple Flask web application that connects to Azure DevOps and calculates the unique number of bugs that entered Active/Doing or Reopened state within a selected date range.
@@ -64,3 +65,7 @@ Usage
 3.Select the end date.
 4.Click Bug Count.
 5.The application displays the unique bug count for the selected project and date range.
+=======
+# azure-bug-counter
+A Python Flask-based web application that integrates with the Azure DevOps REST API to count unique bugs by project, date range, and status. Features include revision history analysis, date validation, duplicate prevention, and error handling to simplify bug tracking and improve reporting efficiency.
+>>>>>>> 0a7fdb9c39ddafbd0456ed14b302387eceea4936
